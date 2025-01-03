@@ -100,7 +100,6 @@ def get_item_price():
         params = {"content": item_name}
         response = requests.get(dis_search, headers=dis_header, params=params)
 
-        print(f"Discord Response: {response.status_code}")
         if response.status_code != 200:
             return jsonify({"error": "discord error"}), 500
 
