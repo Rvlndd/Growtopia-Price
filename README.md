@@ -13,5 +13,7 @@ CHANGE THAT AT .ENV.EXAMPLE AND RENAME IT TO .ENV
 # Some Screenshoot
 ![ss](asset/Screenshot_20241216-200519.jpg)
 
-# note from me
+# Author
+created by RvLnd
+
 pls ignore my bad prompt writing.. i suggest you to enchance it if you want
