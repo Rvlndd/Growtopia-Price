@@ -16,6 +16,3 @@ CHANGE THAT AT .ENV.EXAMPLE AND RENAME IT TO .ENV
 # Author
 created by RvLnd
 
-pls ignore my bad prompt writing.. i suggest you to enchance it if you want
-
-tested in python3.10, if you use the latest version of python and have gemini sdk error, u can use the gemini rest api 
