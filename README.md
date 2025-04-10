@@ -13,6 +13,11 @@ CHANGE THAT AT .ENV.EXAMPLE AND RENAME IT TO .ENV
 # Some Screenshoot
 ![ss](asset/Screenshot_20241216-200519.jpg)
 
+this ss on the old ver, now theres no rest api, do it urself if u want make it as a rest api
+
+or maybe got inspired to create price checker web like growstock but fully automated??
+give me star plis
+
 # Author
 created by RvLnd
 
