@@ -11,7 +11,7 @@ CHANGE THAT AT .ENV.EXAMPLE AND RENAME IT TO .ENV
 3. YOUR DISCORD ACCOUNT MUST JOIN IHEMO SERVER BECAUSE IT SCRAPE IHEMO DISCORD SERVER.
 
 # Some Screenshoot
-![ss](asset/asset/ss.png)
+![ss](asset/ss.png)
 
 
 # Author
