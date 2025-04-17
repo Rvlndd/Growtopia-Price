@@ -11,12 +11,8 @@ CHANGE THAT AT .ENV.EXAMPLE AND RENAME IT TO .ENV
 3. YOUR DISCORD ACCOUNT MUST JOIN IHEMO SERVER BECAUSE IT SCRAPE IHEMO DISCORD SERVER.
 
 # Some Screenshoot
-![ss](asset/Screenshot_20241216-200519.jpg)
+![ss](asset/asset/Cuplikan layar 2025-04-17 192401.png)
 
-this ss on the old ver, now theres no rest api, do it urself if u want make it as a rest api
-
-or maybe got inspired to create price checker web like growstock but fully automated??
-give me star plis
 
 # Author
 created by RvLnd
