@@ -6,7 +6,6 @@ import { z } from 'zod';
 
 dotenv.config();
 
-// discord stuff - pls no ban discord senpai
 const disSearchUrl = "https://discord.com/api/v9/guilds/571992648190263317/messages/search";
 const disHeaders = {
     "Authorization": process.env.DISCORD_AUTHORIZATION,
@@ -16,7 +15,6 @@ const disHeaders = {
 
 const genAI = new GoogleGenerativeAI(process.env.GENAI_API_KEY || '');
 
-// trust me, this prompt created by ai, thats why it sucks
 const geminiModel = genAI.getGenerativeModel({
     model: "gemini-2.0-flash",
     systemInstruction: `
